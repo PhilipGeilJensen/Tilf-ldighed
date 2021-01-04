@@ -1,0 +1,13 @@
+C:\Users\PhilipJensen\source\repos\Tilfældigheder\Tilfældigheder\bin\Debug\netcoreapp3.1\Tilfældigheder.exe
+C:\Users\PhilipJensen\source\repos\Tilfældigheder\Tilfældigheder\bin\Debug\netcoreapp3.1\Tilfældigheder.deps.json
+C:\Users\PhilipJensen\source\repos\Tilfældigheder\Tilfældigheder\bin\Debug\netcoreapp3.1\Tilfældigheder.runtimeconfig.json
+C:\Users\PhilipJensen\source\repos\Tilfældigheder\Tilfældigheder\bin\Debug\netcoreapp3.1\Tilfældigheder.runtimeconfig.dev.json
+C:\Users\PhilipJensen\source\repos\Tilfældigheder\Tilfældigheder\bin\Debug\netcoreapp3.1\Tilfældigheder.dll
+C:\Users\PhilipJensen\source\repos\Tilfældigheder\Tilfældigheder\bin\Debug\netcoreapp3.1\Tilfældigheder.pdb
+C:\Users\PhilipJensen\source\repos\Tilfældigheder\Tilfældigheder\obj\Debug\netcoreapp3.1\Tilfældigheder.csprojAssemblyReference.cache
+C:\Users\PhilipJensen\source\repos\Tilfældigheder\Tilfældigheder\obj\Debug\netcoreapp3.1\Tilfældigheder.AssemblyInfoInputs.cache
+C:\Users\PhilipJensen\source\repos\Tilfældigheder\Tilfældigheder\obj\Debug\netcoreapp3.1\Tilfældigheder.AssemblyInfo.cs
+C:\Users\PhilipJensen\source\repos\Tilfældigheder\Tilfældigheder\obj\Debug\netcoreapp3.1\Tilfældigheder.csproj.CoreCompileInputs.cache
+C:\Users\PhilipJensen\source\repos\Tilfældigheder\Tilfældigheder\obj\Debug\netcoreapp3.1\Tilfældigheder.dll
+C:\Users\PhilipJensen\source\repos\Tilfældigheder\Tilfældigheder\obj\Debug\netcoreapp3.1\Tilfældigheder.pdb
+C:\Users\PhilipJensen\source\repos\Tilfældigheder\Tilfældigheder\obj\Debug\netcoreapp3.1\Tilfældigheder.genruntimeconfig.cache
